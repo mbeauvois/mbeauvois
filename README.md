@@ -1,5 +1,9 @@
 ### Hi there 👋
-Hi I'm Marine Beauvois
+
+Hi! Nice to see you.
+
+Welcome to my page!
+I'm Marine, Fullstack developer from Lille, France.
 <!--
 **mbeauvois/mbeauvois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

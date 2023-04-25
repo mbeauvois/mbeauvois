@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marine</h1>
-<h3 align="center">I am a passionate full stack web developer looking for an apprenticeship in Lille and its surroundings.</h3>
-<p>I have recently done a bootcamp at Le Wagon and I will be starting a DevOps course with Simplon in September . </p>
+<h3 align="center">I am a passionate full stack web developer looking for an apprenticeship in Lille and its surroundings.
+I have recently done a bootcamp at Le Wagon and I will be starting a DevOps course with Simplon in September . </h3>
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,7 +34,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## <h3 align="left">Data:</h3>
-
+>
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)

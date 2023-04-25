@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marine</h1>
-<h3 align="center">A passionate Full Stack Web Developer Looking for an apprenticeship from Lille.</h3>
-<p> </p>
+<h3 align="center">I am a passionate full stack web developer looking for an apprenticeship in Lille and its surroundings.</h3>
+<p>I have recently done a bootcamp at Le Wagon and I will be starting a DevOps course with Simplon in September . </p>
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
